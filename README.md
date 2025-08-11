@@ -277,8 +277,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions about this project, please contact:
-- **[Your Name]**: [your.email@university.edu]
-- **[Partner Name]**: [partner.email@university.edu]
+- Idrees Khan, khanidrees7972@gmail.com
+- 
 
 ---
 
