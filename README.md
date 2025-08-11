@@ -252,13 +252,27 @@ fake-news-detection/
 ├── docs/                   # Documentation and reports
 └── scripts/                # Training and evaluation scripts
 ```
+## Dataset Information
 
-## 🤝 Team Contributions
+### Primary Datasets (81,215+ total examples)
+- **FakeNewsNet**: 23,481 articles with images and social context
+- **LIAR Dataset**: 12,836 manually labeled statements
+- **ISOT Fake News**: 44,898 articles from reliable/unreliable sources
+- **Synthetic Data**: 2,500+ custom generated examples
 
-| Team Member | Contributions |
+### Dataset Sources
+- FakeNewsNet: https://github.com/KaiDMML/FakeNewsNet
+- LIAR: https://www.cs.ucsb.edu/~william/data/liar_dataset.zip
+- ISOT: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+✅ **Exceeds course requirement of 1,000+ examples**
+
+## 🤝 Contributions
+
+| | Contributions | Idrees Khan
 |-------------|---------------|
-| **[Your Name]** | Project leadership, text analysis module, ensemble fusion, documentation |
-| **[Partner Name]** | Image analysis module, social media analysis, web interface, testing |
+|  | Project leadership, text analysis module, ensemble fusion, documentation |
+| ** | Image analysis module, social media analysis, web interface, testing |
 
 ## 📚 References & Citations
 
