@@ -281,7 +281,3 @@ For questions about this project, please contact:
 - 
 
 ---
-
-**Course**: AAI 501: Introduction to Artificial Intelligence  
-**Institution**: [Your University]  
-**Date**: August 2025
